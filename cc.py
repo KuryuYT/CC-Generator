@@ -1,7 +1,6 @@
 import ccard
 import random
 import sys
-#UTF-8 ENCODE
 
 month = str(random.randint(1, 12))
 year = str(random.randint(2024, 2030))
